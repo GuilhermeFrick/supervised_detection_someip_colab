@@ -1,0 +1,16 @@
+# Dados (baixados pelo notebook no Colab) e artefatos de treino
+output/**/data/
+*.pickle
+*.pt
+*.zip
+**/torch_logs/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# OS
+Thumbs.db
+.DS_Store
